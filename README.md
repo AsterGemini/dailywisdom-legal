@@ -1,6 +1,6 @@
-# Daily Wisdom - Legal Documents
+# Wisdomly - Legal Documents
 
-Legal pages for the Daily Wisdom iOS app.
+Legal pages for the Wisdomly iOS app.
 
 ## Live URLs
 
